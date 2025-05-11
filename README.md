@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Seunghyun Jin</h1>
 
+```
 🔭 I’m currently studying on **Inha Technical College**
 
 🌱 I’m currently learning **Java, C#**
 
 📫 How to reach me **jinsh1210@naver.com**
+```
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
