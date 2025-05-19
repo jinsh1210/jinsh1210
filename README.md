@@ -3,7 +3,7 @@
 
 🔭 I’m currently studying on **Inha Technical College**
 
-🌱 I’m currently learning **Java, C#**
+🌱 I’m currently learning **Java, C#, MySQL**
 
 📫 How to reach me **jinsh1210@naver.com**
 
