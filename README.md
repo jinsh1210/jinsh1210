@@ -30,14 +30,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinh1210&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### 💡 Fun Facts
 
 - 🌱 I’m currently learning full-stack development fundamentals.
