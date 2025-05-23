@@ -1,6 +1,6 @@
 <h1 align="center">🚀 JinSeungHyun</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub!;Java+%E2%80%A2+C%23+%E2%80%A2+MySQL+%E2%80%A2+Python;Inha+Technical+College+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Welcome+to+my+GitHub!;Java+•+C%23+•+MySQL+•+Python" alt="Typing SVG" />
 </p>
 
 <p align="right">
