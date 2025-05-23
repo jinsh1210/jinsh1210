@@ -9,14 +9,14 @@
 
 ---
 
-### 🌟 About Me
-- 🎓 &nbsp;I'm currently studying at **Inha Technical College**
-- 🌱 &nbsp;Currently focused on **Java, C#, MySQL**, and diving into **Python**
-- 📫 &nbsp;Reach me at **[jinsh1210@naver.com](mailto:jinsh1210@naver.com)**
+### 🌟 소개
+- 🎓 &nbsp;현재 **인하공업전문대학**에 재학 중입니다.
+- 🌱 &nbsp;**Java, C#, MySQL**을 중점적으로 공부 중이며, **Python**도 함께 배우고 있습니다.
+- 📫 &nbsp;연락처: **[jinsh1210@naver.com](mailto:jinsh1210@naver.com)**
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ 사용하는 언어 및 도구
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
@@ -34,18 +34,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub 통계
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jinsh1210&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jinsh1210&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
-
----
-
-### 💡 Fun Facts
-- 🐶 I love dogs and nature.
-- 🧠 I'm always curious about how systems work behind the scenes.
-- 🛠️ Building tools and improving efficiency is my jam.
 
 ---
